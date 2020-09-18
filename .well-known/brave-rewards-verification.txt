@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: nikeshkalu.github.io
+Token: db82300b502a796ca50f2b4a6f2df2ce1028d5848110f046ce8fb58c44a6a3cb
