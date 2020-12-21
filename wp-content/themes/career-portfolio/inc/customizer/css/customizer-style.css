@@ -1,0 +1,37 @@
+ul.icons-list-wrapper li {
+    display: inline-block;
+    padding: 3px;
+}
+.selected-icon-preview {
+    text-align: center;
+    border: 1px  solid #ddd;
+    padding: 5px 0;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+.selected-icon-preview .fa{
+    font-size: 22px;
+    color: #333;
+}
+.icons-list-wrapper li {
+    width: 15%;
+    margin-right: 5px;
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 20px;
+    float: left;
+    transition: 0.5s all ease;
+}
+.icons-list-wrapper li .fa:hover{
+    color: #f3c93a;
+    -webkit-transition: 0.5s all ease;
+    -moz-transition: 0.5s all ease;
+    -ms-transition: 0.5s all ease;
+    transition: 0.5s all ease;
+}
+ul.icons-list-wrapper{
+    height: 150px;
+    border: 1px solid #ddd;
+    padding: 10px 0;
+    overflow-y: scroll;
+}
